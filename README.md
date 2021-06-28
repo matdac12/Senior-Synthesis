@@ -1,3 +1,3 @@
-# SnrProject
+# Senior Project - Mathematics Synthesis
 
-Hello this is a try
+
