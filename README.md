@@ -1,6 +1,6 @@
 # Senior Project - Mathematics Synthesis
 
-Running Logistic Regression on NBA play-by-play data. The objective was to show that we can mathematically predict the probability of a basketball shot going in based on certain shot characteristics. 
+Running Logistic Regression on NBA play-by-play data. The objective was to show that we can mathematically predict the probability of a basketball shot going in based on certain shot characteristics. Consult 'FINALMODEL' for final and clean logistic model.
 
 The files also include a try to predict basketball scoring with different distributions: mainly exponential and Poisson. The results showed interesting insights and could be material for future studies. 
 
